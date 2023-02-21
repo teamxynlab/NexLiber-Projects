@@ -20,7 +20,7 @@
 
 ## 🚀 Technologies
 
-The following technologies are used to build nexliber.com
+The following technologies are used to build [nexliber.com](https://nexliber.com)
 - Next.js
 - Supabase
 - Stripe
