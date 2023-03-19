@@ -18,7 +18,7 @@ Now, create a Pull Request (PR) to the original `teamxynlab/NexLiber-Projects` r
 
 Things to note:
 - Title your PR "🎉 New Project: **Project Title**"
-- Enter the Project **description**, **field**, and **difficulty** in the comment field
+- Enter the Project's **description** and **field** in the comment field
 - Additionally, enter your **name**, **GitHub username**, and **Discord username** in the comment field too
 
 Your Project must be reviewed and approved by an Admin before it is merged into the main branch.
