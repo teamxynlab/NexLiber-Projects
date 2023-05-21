@@ -6,7 +6,7 @@
 
 [NexLiber](https://nexliber.com) is a library of comprehensive coding project documentations extinguishing tutorial hell via community-driven experiential learning.
 
-> Create to Learn.
+> Create to Learn
 
 ## 🔗 Useful Links
 
