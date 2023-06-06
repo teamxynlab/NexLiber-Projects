@@ -36,4 +36,4 @@ The following technologies are used to build [nexliber.com](https://nexliber.com
 - Stripe
 - Storyblok
 - SendGrid
-- Lyra/Orama
+- Orama
